@@ -1,0 +1,10 @@
+.filter{
+  height: 30px;
+}
+
+.filter_container{
+    border-top: black 2px solid;
+    border-bottom:  black 1px solid;
+    margin-bottom: 20px;
+    padding: 10px 0;
+  }

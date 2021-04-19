@@ -1,0 +1,16 @@
+{
+  "name": "ChartJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "1.8",
+    "angular-chart.js": "^1.1.1",
+    "angular-ui-router": "^1.0.29",
+    "angularjs-daterangepicker": "^1.1.5",
+    "chart.js": "^2.6.0"
+  },
+  "scripts": {
+    "start": "http-server -a localhost -p 9000"
+  }
+}
